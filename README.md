@@ -26,3 +26,6 @@ Se aplicaron los principios de normalización de modelos relacionales (1NF / 2NF
 * **`DimCliente`:** Contiene la información propia de la entidad cliente.
 * **`FactVentas`:** Registra las métricas numéricas y claves de relación (`codigo_operacion`, `fecha_venta`, `codigo_cliente`, `total_venta`).
 * **Justificación:** Mantiene una única fuente de verdad para los datos del cliente, reduce la redundancia de almacenamiento y facilita el modelado dimensional bajo esquema en estrella en Power BI.
+Adjunto capturas de pantalla
+<img width="1344" height="718" alt="image" src="https://github.com/user-attachments/assets/f82c0cd9-42c1-4342-87ef-c10a4adee534" />
+<img width="1359" height="676" alt="image" src="https://github.com/user-attachments/assets/6ed14390-25dd-4d34-96db-e551be4da8e9" />
