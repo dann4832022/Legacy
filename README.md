@@ -220,9 +220,14 @@ OP-100172	COD_CLI_065	15/10/2024	919	2	271,73	0	ARS	Online	543,46
 OP-100730	COD_CLI_047	17/11/2023	925	1	259,21	0,05	ARS	Sucursal	246,2495
 OP-100262	COD_CLI_010	20/1/2024	722	1	331,11	0,15	ARS	ONLINE	281,4435
 * **Justificación:** Mantiene una única fuente de verdad para los datos del cliente, reduce la redundancia de almacenamiento y facilita el modelado dimensional bajo esquema en estrella en Power BI.
-Adjunto capturas de pantalla
+Adjunto capturas de pantalla "Pasos aplicados" en Power Query.
 dimcliente
-<img width="1359" height="703" alt="image" src="https://github.com/user-attachments/assets/b379ec83-c43b-44bb-acde-95bf14242daf" />
-facventas
-<img width="1357" height="675" alt="image" src="https://github.com/user-attachments/assets/46cbdfcf-2afc-4169-b0f0-4ea243a9533f" />
+<img width="399" height="557" alt="image" src="https://github.com/user-attachments/assets/769a2ea4-a34d-437a-9a91-5ab33e30f5c2" />
+<img width="383" height="535" alt="image" src="https://github.com/user-attachments/assets/6267e860-d09a-42b9-863c-5603c8fcb145" />
+FactVentas
+<img width="385" height="560" alt="image" src="https://github.com/user-attachments/assets/cb5c4e31-2845-44a1-ac4a-a0e3ae4525cd" />
+<img width="391" height="543" alt="image" src="https://github.com/user-attachments/assets/d8da0676-aca2-4545-b8bb-630dedc773f9" />
+
+
+
 
